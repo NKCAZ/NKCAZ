@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NKCAZ
-- 👀 I’m interested in coding in gernal
+- 👀 I’m interested in everything about coding and cybersecurity, mobil dev, web design,all of that
 - 🌱 I’m currently learning python, c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
